@@ -37,7 +37,7 @@ Using shorter partition and sort keys can also help to reduce the space required
 
 #### General Working ####
 
-[![General Working](https://github.com/saksham-ghimire/XMLParser/blob/master/screenshots/work_test.gif)](https://user-images.githubusercontent.com/66101153/211189703-b69124d8-aae8-4e0f-871a-d7bdf52dd1b0.mp4)
+https://user-images.githubusercontent.com/66101153/211189703-b69124d8-aae8-4e0f-871a-d7bdf52dd1b0.mp4
 
 
 #### Validation Testing ####
