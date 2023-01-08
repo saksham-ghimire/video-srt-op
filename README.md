@@ -43,7 +43,7 @@ Using shorter partition and sort keys can also help to reduce the space required
 #### Validation Testing ####
 
 *Forging*
-![Forging](https://user-images.githubusercontent.com/66101153/211189718-46a98645-8b20-45cb-9553-5651ecf72789.mp4)
+[![Forging]](https://user-images.githubusercontent.com/66101153/211189718-46a98645-8b20-45cb-9553-5651ecf72789.mp4)
 
 *Pre existent*
 (https://user-images.githubusercontent.com/66101153/211189823-4357f87d-9fe9-42a6-b77c-efdba8668bee.mp4)
