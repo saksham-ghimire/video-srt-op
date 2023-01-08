@@ -37,26 +37,26 @@ Using shorter partition and sort keys can also help to reduce the space required
 
 #### General Working ####
 
-https://user-images.githubusercontent.com/66101153/211189703-b69124d8-aae8-4e0f-871a-d7bdf52dd1b0.mp4
+(https://user-images.githubusercontent.com/66101153/211189703-b69124d8-aae8-4e0f-871a-d7bdf52dd1b0.mp4)
 
 
 #### Validation Testing ####
 
 *Forging*
-[![General Working](https://github.com/saksham-ghimire/XMLParser/blob/master/screenshots/work_test.gif)](https://user-images.githubusercontent.com/66101153/211189718-46a98645-8b20-45cb-9553-5651ecf72789.mp4)
+![Forging](https://user-images.githubusercontent.com/66101153/211189718-46a98645-8b20-45cb-9553-5651ecf72789.mp4)
 
 *Pre existent*
-https://user-images.githubusercontent.com/66101153/211189823-4357f87d-9fe9-42a6-b77c-efdba8668bee.mp4
+(https://user-images.githubusercontent.com/66101153/211189823-4357f87d-9fe9-42a6-b77c-efdba8668bee.mp4)
 
 
 #### Latency Testing ####
 
-https://user-images.githubusercontent.com/66101153/211189794-e5251213-66ec-4c5b-a27d-646c198c01f5.mp4
+(https://user-images.githubusercontent.com/66101153/211189794-e5251213-66ec-4c5b-a27d-646c198c01f5.mp4)
 
 
 #### Celery Working ####
 
-https://user-images.githubusercontent.com/66101153/211189741-fadd242d-5896-489a-8c70-beea081f41a4.mp4
+(https://user-images.githubusercontent.com/66101153/211189741-fadd242d-5896-489a-8c70-beea081f41a4.mp4)
 
 
 
